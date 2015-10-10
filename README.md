@@ -8,3 +8,5 @@ Today I Learned
 3. 커밋로그를 명확히 작성한다. 
 4. 매일 컴퓨터앞에 앉아서 코드를 작성한다.
 
+## 참고사이트
+http://www.codewars.com/kata
